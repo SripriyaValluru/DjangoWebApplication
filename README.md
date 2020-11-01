@@ -2,10 +2,10 @@
 To deploy the sample web application
 
 
-# First make migrations: python manage.py makemigrations
+#First make migrations: python manage.py makemigrations
 
-# Next: python manage.py migrate
+#Next: python manage.py migrate
 
-# To run this: python manage.py runserver
+#To run this: python manage.py runserver
 
-# After running the server successfully, Starting development server at http://127.0.0.1:8000/
+#After running the server successfully, Starting development server at http://127.0.0.1:8000/
