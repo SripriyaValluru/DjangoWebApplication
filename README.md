@@ -2,7 +2,7 @@
 To deploy the sample web application
 
 
-# Firt make migrations: python manage.py makemigrations
+# First make migrations: python manage.py makemigrations
 
 # Next: python manage.py migrate
 
